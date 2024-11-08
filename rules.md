@@ -7,6 +7,11 @@ Une cellule vivante qui a deux ou trois voisines vivantes reste vivante.
 Règle implicite
 Plus de trois voisines vivantes, ou moins de deux voisines vivantes, et la cellule meurt.
 
+0 0
+0 1
+>
+0 0
+0 0
 
 0 1 0
 1 0 1
@@ -21,3 +26,6 @@ Plus de trois voisines vivantes, ou moins de deux voisines vivantes, et la cellu
 0 0 0 0 0
 0 0 0 0 0
 0 1 0 1 0
+
+0 1
+0 1
